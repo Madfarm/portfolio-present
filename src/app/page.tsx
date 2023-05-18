@@ -5,7 +5,7 @@ const HomePage: NextPage = () => {
     return (
         <>
             <main className="w-screen bg-gray-700 h-screen">
-
+                <img src="" alt="Cover Photo"/>
             </main>
         </>
     )
